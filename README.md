@@ -26,20 +26,35 @@ This project's objective is to develop a machine-learning-based bot specifically
 - Machine Learning Frameworks (TensorFlow, PyTorch)
 - Speech Recognition and Text-to-Speech
 
-## Set-Up
+## How it Works
+
+- **Data Preprocessing**: Transcripts are cleaned, preprocessed, and formatted according to OpenAI's requirements.
+- **Fine-Tuning**: The bot is fine-tuned using the processed transcripts on OpenAI's models, enhancing its understanding of data science topics.
+- **Inference**: Utilizes the fine-tuned model to interpret and respond to student queries effectively.
+
+## Getting Started
+
+### Research
+- How would we create the model
+- Where would we get the data
+- Exploring AI technologies
 
 ### Installation
    ```sh
    pip install --upgrade openai
 
 ### Cleaning
+- transcribing data
+- manual test
+- formatting for OpenAI
+- connection to API
 
 
-## How it Works
 
-- **Data Preprocessing**: Transcripts are cleaned, preprocessed, and formatted according to OpenAI's requirements.
-- **Fine-Tuning**: The bot is fine-tuned using the processed transcripts on OpenAI's models, enhancing its understanding of data science topics.
-- **Inference**: Utilizes the fine-tuned model to interpret and respond to student queries effectively.
+
+
+
+
 
 
 ## Acknowledgements
