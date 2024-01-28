@@ -9,7 +9,7 @@ This project's objective is to develop a machine-learning-based bot specifically
 - [Technologies Used](#technologies-used)
 - [How it Works](#how-it-works)
 - [Getting Started](#getting-started)
--         [Installation](#installation) 
+         - [Installation](#installation) 
 - [Acknowledgements](#acknowledgements)
 
         - [Installation](#installation) 
