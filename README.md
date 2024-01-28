@@ -1,4 +1,4 @@
-# AI and ML Bot with OpenAI Fine-Tuning
+# AI and ML Bot with OpenAI APIs and Fine-Tuning
 
 ## Project Overview
 This project's objective is to develop a machine-learning-based bot specifically designed to assist data science educators by emulating the teaching style of our data science instructor, Drew. It leverages OpenAI's APIs and fine-tuning capabilities to learn from transcripts of recorded classes, enabling it to not only provide contextual assistance and answer frequently asked questions but also to interact and respond in a manner that closely resembles Drew's unique teaching approach, thereby offering a personalized and familiar learning experience to students.
