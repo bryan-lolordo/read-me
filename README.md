@@ -1,7 +1,7 @@
-# Data Science Teacher Assistant Bot with OpenAI Fine-Tuning
+# AI and ML Bot of our Data Science Instructor with OpenAI Fine-Tuning
 
 ## Project Overview
-"DataSciTeachBot" is a machine learning bot designed to assist data science educators. It leverages OpenAI's APIs and fine-tuning capabilities to learn from transcripts of recorded classes. This approach enhances the bot's ability to provide contextual assistance, answer FAQs, and suggest tailored resources in the field of data science.
+This project's objective is to develop a machine-learning-based bot specifically designed to assist data science educators by emulating the teaching style of our data science instructor, Drew. It leverages OpenAI's APIs and fine-tuning capabilities to learn from transcripts of recorded classes, enabling it to not only provide contextual assistance and answer frequently asked questions but also to interact and respond in a manner that closely resembles Drew's unique teaching approach, thereby offering a personalized and familiar learning experience to students.
 
 ## Features
 - **Advanced Contextual Understanding**: Uses OpenAI's models for deep contextual comprehension of data science topics.
@@ -14,7 +14,7 @@
 - OpenAI API
 - Natural Language Processing Libraries (NLTK, spaCy)
 - Machine Learning Frameworks (TensorFlow, PyTorch)
-- Speech Recognition and Text-to-Speech APIs
+- Speech Recognition and Text-to-Speech
 
 ## Getting Started
 
@@ -26,13 +26,27 @@
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/DataSciTeachBot.git
+   pip install --upgrade openai
 
 ## How it Works
 
 - **Data Preprocessing**: Transcripts are cleaned, preprocessed, and formatted according to OpenAI's requirements.
 - **Fine-Tuning**: The bot is fine-tuned using the processed transcripts on OpenAI's models, enhancing its understanding of data science topics.
 - **Inference**: Utilizes the fine-tuned model to interpret and respond to student queries effectively.
+
+
+
+
+
+## Acknowledgements
+
+- Your Data Science Teacher
+- OpenAI Community
+- Contributors and Open Source Enthusiasts
+
+## Contributors
+
+This project exists thanks to all the people who contribute. 
 
 ## Contributing
 
@@ -48,12 +62,3 @@ We encourage contributions. Please follow these steps to contribute:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Project Link: [https://github.com/yourusername/DataSciTeachBot](https://github.com/yourusername/DataSciTeachBot)
-
-## Acknowledgements
-
-- Your Data Science Teacher
-- OpenAI Community
-- Contributors and Open Source Enthusiasts
