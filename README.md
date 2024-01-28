@@ -42,19 +42,13 @@ This project's objective is to develop a machine-learning-based bot specifically
 ### Installation
    ```sh
    pip install --upgrade openai
+   ```
 
 ### Cleaning
 - transcribing data
 - manual test
 - formatting for OpenAI
 - connection to API
-
-
-
-
-
-
-
 
 
 ## Acknowledgements
