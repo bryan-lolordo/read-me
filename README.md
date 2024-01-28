@@ -1,4 +1,4 @@
-# AI and ML Bot of our Data Science Instructor with OpenAI Fine-Tuning
+# AI and ML Bot with OpenAI Fine-Tuning
 
 ## Project Overview
 This project's objective is to develop a machine-learning-based bot specifically designed to assist data science educators by emulating the teaching style of our data science instructor, Drew. It leverages OpenAI's APIs and fine-tuning capabilities to learn from transcripts of recorded classes, enabling it to not only provide contextual assistance and answer frequently asked questions but also to interact and respond in a manner that closely resembles Drew's unique teaching approach, thereby offering a personalized and familiar learning experience to students.
@@ -18,13 +18,7 @@ This project's objective is to develop a machine-learning-based bot specifically
 
 ## Getting Started
 
-### Prerequisites
-- Python 3.7 or higher
-- Git
-- An OpenAI API key
-
 ### Installation
-1. Clone the repository:
    ```sh
    pip install --upgrade openai
 
@@ -33,9 +27,6 @@ This project's objective is to develop a machine-learning-based bot specifically
 - **Data Preprocessing**: Transcripts are cleaned, preprocessed, and formatted according to OpenAI's requirements.
 - **Fine-Tuning**: The bot is fine-tuned using the processed transcripts on OpenAI's models, enhancing its understanding of data science topics.
 - **Inference**: Utilizes the fine-tuned model to interpret and respond to student queries effectively.
-
-
-
 
 
 ## Acknowledgements
